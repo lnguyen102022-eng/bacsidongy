@@ -1,0 +1,6 @@
+name = "bacsidongy"
+compatibility_date = "2026-06-26"
+pages_build_output_dir = "."
+[[kv_namespaces]]
+binding = "POSTS"
+id = "d117890c68664f6e8a286265417f1edc"
